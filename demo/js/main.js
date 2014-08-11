@@ -62,6 +62,7 @@ require.config({
         jquery: [
 	        'jquery-1.7.1',
 	        'http://libs.baidu.com/jquery/1.7.1/jquery',
+	        'http://apps.bdimg.com/libs/jquery/1.7.1/jquery.min',
 	        'http://lib.sinaapp.com/js/jquery/1.7.2/jquery.min',
 	        '//upcdn.b0.upaiyun.com/libs/jquery/jquery-1.7.1.min',
 	        'http://libs.useso.com/js/jquery/1.7.1/jquery.min',

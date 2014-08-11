@@ -1,3 +1,4 @@
+/*
 ~function(){
 
 	var math = {};
@@ -13,6 +14,17 @@
 		return math;
 	})
 }();
+
+*/
+
+define(["require","kkbase"], function(require) {
+    var Base = require("./kkbase");
+
+    var base = Base.create();
+
+    return base;
+});
+
 
 /*
 1 简单的值对
